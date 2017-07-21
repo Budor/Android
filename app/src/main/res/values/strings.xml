@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLocaBT</string>
+    <string name="open">打开蓝牙</string>
+    <string name="bluetoothSet">蓝牙设置</string>
+    <string name="hint">请输入信息</string>
+    <string name="deviceNoBlueTooth">该设备没有蓝牙</string>
+    <string name="succeeded">获取本地数据成功</string>
+    <string name="save_data">保存数据</string>
+    <string name="read_data">读取数据</string>
+    <string name="new_database">新建数据库</string>
+    <string name="get_address_list">获取联系人</string>
+</resources>
