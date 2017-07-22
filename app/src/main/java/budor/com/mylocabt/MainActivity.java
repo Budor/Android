@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (REQUEST_OPEN_BT == requestCode) {
-            showToast("请求成功");
+            showToast("请求失败");
         }
     }
 }
